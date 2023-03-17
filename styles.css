@@ -2,5 +2,5 @@ body{
     background-color: #fbffc3;
     }
 .cabeçalho{ 
-background-color: blueviolet;
+background-color: blueviolet; display: flex; justify-content: space-around;
 }
